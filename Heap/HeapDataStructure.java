@@ -99,6 +99,7 @@ public class HeapDataStructure
             System.out.println("2. delete item with max key ");
             System.out.println("3. check empty");
 
+            System.out.println("Please enter a number from 1 to 3");
             boolean checkChoices;
             int choice = scan.nextInt();
             switch (choice)
