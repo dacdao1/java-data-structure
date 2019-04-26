@@ -10,7 +10,7 @@ java dataStructureName
 ```
 Take out the dataStructureName declarative and put in the file name that you downloaded.
 
-** Please choose a folder to go into and looks at the README to have a better understand of how each data structure and algorithm works **
+**Please choose a folder to go into and looks at the README to have a better understand of how each data structure and algorithm works**
 
 ## Binary Heap
 
