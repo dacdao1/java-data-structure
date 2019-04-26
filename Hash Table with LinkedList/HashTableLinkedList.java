@@ -182,7 +182,7 @@ public class HashTableLinkedList
                 System.out.println("Empty status = "+ hashTableLinkedList.isEmpty() );
                 break;
             default :
-                System.out.println("You didn't choose from 1 to 4, please pick again  \n ");
+                System.out.println("You didn't choose from 1 to 5, please pick again  \n ");
                 break;
             }
             /* Display hash table */

@@ -123,7 +123,7 @@ public class HeapDataStructure
                 System.out.println("Empty status = "+ heap.isEmpty());
                 break;
             default :
-                System.out.println("You didn't choose from 1 to 4, please pick again  \n ");
+                System.out.println("You didn't choose from 1 to 3, please pick again  \n ");
                 break;
             }
 

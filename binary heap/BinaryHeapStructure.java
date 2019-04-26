@@ -202,7 +202,7 @@ System.out.println("Please enter a number from 1 to 5");
                 System.out.println("Heap Cleared\n");
                 break;
             default :
-                System.out.println("You didn't choose from 1 to 4, please pick again  \n ");
+                System.out.println("You didn't choose from 1 to 5, please pick again  \n ");
                 break;
             }
             /** Display theHeapArray **/
