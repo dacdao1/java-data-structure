@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * This program goal is to implement the algorithm of a Hash table and to create the uses for a hash table.
+ * This program goal is to implement the data structure of a Hash table and to create the uses for a hash table.
  **/
 
 import java.util.Scanner;
@@ -98,8 +98,8 @@ public class HashTableTest
             System.out.println("1. insert ");
             System.out.println("2. remove");
             System.out.println("3. contains");
-            System.out.println("4. clear");
-
+            System.out.println("4. clear \n");
+             System.out.println("Please enter a number from 1 to 4")
             int choice = scan.nextInt();
             /** Switch statement to understand the users input and see what they wanted to do with the hash table.**/
             switch (choice)
