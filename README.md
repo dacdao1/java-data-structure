@@ -2,6 +2,14 @@
 
 This repository contains all of the data structures and algorithm that I learned while in college. We mostly cover Stack, Linked List, and Queue but my Advance Algorithm class covers Heap, Binary Heap, and Hash Table. So I included what I learned from those two classes within this repository. I added within each folder the way to run each Java program and what it looks like at the end.
 
+To run each program, first you have to have JDK install within your local machine. Once JDK is install, please click onto one of the folder, then download that file. Then use the command line terminal to move into the folder that contain the file. Then use the command below to run the program.
+
+```java
+javac dataStructureName.java
+java dataStructureName
+```
+Take out the dataStructureName declarative and put in the file name that you downloaded.
+
 ** Please choose a folder to go into and looks at the README to have a better understand of how each data structure and algorithm works **
 
 ## Binary Heap
